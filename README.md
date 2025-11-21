@@ -13,14 +13,13 @@
 ## 🛠️ Tools & Technologies
 **Languages:**
 - Python
-- Matlab & Simulink
-
 
 **Technical Areas:**
 - Induction motor fault diagnosis  
 - Real-time signal processing
 - Data acquisition systems
 - Applied machine learning
+- IoT
 
 ---
 
