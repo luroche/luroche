@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 📘 Currently working on advanced techniques for **early fault detection** in induction motor.  
+📘 Currently working on advanced techniques for **early fault detection** in induction motor.  
 ---
 
 ## 🛠️ Tools & Technologies
