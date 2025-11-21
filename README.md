@@ -28,7 +28,3 @@
 
 ## 📫 Contact
 🔗 **https://www.linkedin.com/in/luis-roche**
-
----
-
-_Thanks for visiting my profile 👋_
