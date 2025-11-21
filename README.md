@@ -8,8 +8,6 @@
 
 ## 🧠 About Me
 - 📘 Currently working on advanced techniques for **early fault detection** in induction motor.  
-- ⚡ Interested in **vibration analysis, current signature analysis, FFT/STFT/Wavelets**, and real-time data acquisition.
-
 ---
 
 ## 🛠️ Tools & Technologies
