@@ -17,7 +17,7 @@
 🐬 MySQL  
 🍃 MongoDB  
 
-**Technical Areas:**
+### Technical Areas
 - Induction motor fault diagnosis  
 - Real-time signal processing
 - Data acquisition systems
