@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm **luroche**
 
-<!--
-**luroche/luroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **PhD Student in Electromechanical Engineering**  
+🔧 Focused on **real-time monitoring and fault diagnosis in induction motors**.  
+🔍 My research integrates **signal processing**, **machine learning**, and **IoT** to develop intelligent tools for predictive maintenance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 📘 Currently working on advanced techniques for **early fault detection** in induction motor.  
+- ⚡ Interested in **vibration analysis, current signature analysis, FFT/STFT/Wavelets**, and real-time data acquisition.
+
+---
+
+## 🛠️ Tools & Technologies
+**Languages:**  
+- Python
+- Matlab & Simulink
+
+
+**Technical Areas:**
+- Induction motor fault diagnosis  
+- Real-time signal processing
+- Data acquisition systems
+- Applied machine learning
+
+---
+
+## 📫 Contact
+🔗 **https://www.linkedin.com/in/luis-roche**
+
+---
+
+_Thanks for visiting my profile 👋_
