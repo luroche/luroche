@@ -2,7 +2,7 @@
 
 🎓 **PhD Student in Electromechanical Engineering**  
 🔧 Focused on **real-time monitoring and fault diagnosis in induction motors**.  
-🔍 My research integrates **signal processing**, **machine learning** and **IoT** to develop intelligent tools for predictive maintenance in real time.
+🔍 My research integrates signal processing, machine learning, and IoT to develop intelligent tools for real-time predictive maintenance.
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tools & Technologies
-**Languages:**  
+**Languages:**
 - Python
 - Matlab & Simulink
 
